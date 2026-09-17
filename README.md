@@ -103,8 +103,8 @@ open terminal
 
 - type `eas login`
 - asked for credentials add the below creds
-- login name- rutikakhadekar@gmail.com
-- password- Rutika@2627
+- login name- your login name
+- password- your password
 
 # Create Android development build
 npx eas build --platform android --profile development
