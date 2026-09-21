@@ -14,6 +14,7 @@ A Mini LMS (Learning Management System) built with React Native Expo.
 - **AI**: Google Gemini (course insights & recommendations)
 - **Offline**: @react-native-community/netinfo
 - **API**: [freeapi.app](https://api.freeapi.app)
+- **Server** : one can create backend server too instead of using API
 
 ## Features
 
